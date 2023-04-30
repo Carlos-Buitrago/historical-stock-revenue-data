@@ -1,2 +1,2 @@
 # historical-stock-revenue-data
-Analyzing Historical Stock/Revenue Data and Building a Dashboard
+Solution to peer graded assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
